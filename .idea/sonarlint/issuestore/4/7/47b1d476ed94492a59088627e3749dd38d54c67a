@@ -1,0 +1,41 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Ê‘ñ≈
+E
+java:S3740"/Provide the parametrized type for this generic.(Ê‘ñ≈
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(èÏ·Ω
+g
+java:S1854"QRemove this useless assignment to local variable "objectObjectConcurrentHashMap".(ËËﬁ∑
+R
+java:S1854"<Remove this useless assignment to local variable "objects3".(∂ÆóŸ
+]
+java:S1854"GRemove this useless assignment to local variable "objectObjectHashMap".(î›‹ﬁ
+M
+java:S1854"7Remove this useless assignment to local variable "set".(Ê‘ñ≈
+W
+java:S1854"<Remove this useless assignment to local variable "objects2".(û‡“≤˘ˇˇˇˇ
+S
+java:S1854"8Remove this useless assignment to local variable "list".(Œ‘π∂¯ˇˇˇˇ
+R
+java:S1854"<Remove this useless assignment to local variable "objects1".(èÏ·Ω
+V
+java:S1854
+";Remove this useless assignment to local variable "objects".(õÈﬂ˚ˇˇˇˇ
+G
+java:S1481
+",Remove this unused "objects" local variable.(õÈﬂ˚ˇˇˇˇ
+C
+java:S1481"-Remove this unused "objects1" local variable.(èÏ·Ω
+D
+java:S1481")Remove this unused "list" local variable.(Œ‘π∂¯ˇˇˇˇ
+H
+java:S1481"-Remove this unused "objects2" local variable.(û‡“≤˘ˇˇˇˇ
+>
+java:S1481"(Remove this unused "set" local variable.(Ê‘ñ≈
+N
+java:S1481"8Remove this unused "objectObjectHashMap" local variable.(î›‹ﬁ
+C
+java:S1481"-Remove this unused "objects3" local variable.(∂ÆóŸ
+X
+java:S1481"BRemove this unused "objectObjectConcurrentHashMap" local variable.(ËËﬁ∑
