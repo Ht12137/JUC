@@ -8,7 +8,6 @@ class LTicket{
     private final ReentrantLock lock = new ReentrantLock(true);
 
     public void sell(){
-
         lock.lock();
         try{
             if(num>0){
@@ -17,8 +16,6 @@ class LTicket{
         }finally {
             lock.unlock();
         }
-
-
     }
 
 }
